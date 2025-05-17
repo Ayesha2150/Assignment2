@@ -1,4 +1,3 @@
-Introduction
 This is a simple Android quiz application developed using Kotlin and Android Studio. The app presents users with a set of true/false historical questions, tracks their score and provides feedback and a review after the quiz.
 
  Features
